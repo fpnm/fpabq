@@ -68,48 +68,60 @@ See the [resources](resources) sub-directory in this repo for presentation slide
 ### Schedule
 
 **Week 1. Introduction. Lambda calculus.**
+ **(March 16 - March 22)**
 - Haskell Book, Chapter 1
 
 **Week 2. Getting started with Haskell.**
+ **(March 23 - March 29)**
 - Chapters 2 and 3
 
 **Week 3. Basic datatypes.**
+ **(March 30 - April 5)**
 - Review chapters 2 and 3
 - Chapters 4 and 5
 
 **Week 4. Types and Typeclasses.**
+ **(April 6 - April 12)**
 - Review chapters 4 and 5
 - Chapter 6
 
 **Week 5. Functional patterns. Working with recursion.**
+ **(April 13 - April 19)**
 - Review chapter 6
 - Chapters 7 and 8
 
 **Week 6. Lists and folding lists.**
+ **(April 20 - April 26)**
 - Review chapters 7 and 8
 - Chapters 9 and 10
 
 **Week 7. Algebraic datatypes.**
+ **(April 27 - May 3)** 
 - Review chapters 9 and 10
 - Chapters 11 and 12
 
 **Week 8. Midpoint review. Testing with QuickCheck.**
+ **(May 4 - May 10)**
 - Review chapters 2-12
 - Read and complete Chapter 13 on your own
 - Chapter 14
 
 **Week 9. Monoid and Semigroup.**
+ **(May 11 - May 17)**
 - Chapter 15
 
 **Week 10. Functor.**
+ **(May 18 - May 24)
 - Review Chapter 15
 - Chapter 16
 
 **Week 11. Applicative.**
+ **(May 25 - May 31)
 - Review chapter 16
 - Chapter 17
 
 **Week 12. Monad. How to apply structure to your code. Conclusion.**
+ **(June 1 - June 7)**
 - Review chapter 17
 - Chapter 18
 - Read Chapter 19 on your own
